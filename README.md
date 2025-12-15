@@ -1,4 +1,4 @@
-#The PhSecX Global Scholarship Hustle Log
+# My-CyberSec-Journey: The PhSecX Global Scholarship Hustle Log
 
 **Status:** High School Student | Actively Tracking Progress for CSC/MEXT/GKS Undergraduate Admission 🚀
 
@@ -16,14 +16,14 @@ Hi there! I am Ph.sec.x, a **High School Student** driven by the ambition to sec
 
 ### 📈 Scholarship Hustle Log: Proof of Work
 
-This section is strictly updated to reflect weekly technical progress. Mere intention se kaam nahi chalega, PhSecX. **Actual kaam dikhna chahiye!**
+**Strict Discipline:** Mere intention se kaam nahi chalega, PhSecX. Actual kaam dikhna chahiye! *Current status reflects active, ongoing effort.*
 
-| Project/Task | Status | Relevant Skill | Progress Link / Notes |
+| Project/Task | Status | Relevant Skill | Detailed Progress Status |
 | :--- | :--- | :--- | :--- |
-| **01. Network Analysis Basics** | 80% Complete | Wireshark, TCP/IP | [Link to Notes/PCAP files] - Completed 5 basic scenarios. |
-| **02. Python Tool Development (Hashing)** | In Progress | Python 3, CLI | Writing a script for file integrity checks (MD5/SHA256). |
-| **03. TryHackMe/HTB CTF Log** | Starting Soon | Linux CLI, Recon | Dedicating 2 hours per week to structured learning. |
-| **04. Cloud Security Fundamentals** | Planning | AWS/Azure | Next step: Free tier account setup and basic security policy review. |
+| **01. Network Analysis Basics** | **80% Complete** | Wireshark, TCP/IP | Core concepts understood. Need to document final 5 scenario analysis logs. |
+| **02. Python Tool Development (Hashing)** | **In Progress** | Python 3, CLI | Initial script (MD5) working. Currently optimizing for SHA256 and file input handling. |
+| **03. TryHackMe/HTB CTF Log** | **Starting Soon** | Linux CLI, Recon | Planning structured 2-hour sessions weekly. First machine targeted this week. |
+| **04. Cloud Security Fundamentals** | **Planning Phase** | AWS/Azure | Researching free tier resources and fundamental IAM/security policy review. |
 
 ---
 
