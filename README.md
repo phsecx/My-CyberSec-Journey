@@ -1,4 +1,4 @@
-The PhSecX Global Scholarship Hustle Log
+#The PhSecX Global Scholarship Hustle Log
 
 **Status:** High School Student | Actively Tracking Progress for CSC/MEXT/GKS Undergraduate Admission 🚀
 
