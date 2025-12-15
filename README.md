@@ -1,24 +1,30 @@
-# My-CyberSec-Journey
-My personal repository for documenting and sharing my learning journey in Cyber Security, Cloud Computing, and Tech.
-# 🟢 Welcome to Ph.sec.x's Lab
+# My-CyberSec-Journey: The PhSecX Global Scholarship Hustle Log
 
-### **System Online. Initiating CyberSec Journey.**
-
-Hi there! I am Ph.sec.x, a **High School Student** and a dedicated learner driven by curiosity in the digital world. This repository serves as my public log—a place where I document, share, and track my progress in my areas of interest.
+**Status:** High School Student | Actively Tracking Progress for CSC/MEXT/GKS Undergraduate Admission 🚀
 
 ---
 
-### **🛡️ My Mission & Focus Areas**
+## 🎯 Ph.sec.X's Mission & Strategic Focus
 
-* **Cyber Security:** Exploring ethical hacking, penetration testing, and defensive strategies.
-* **Cloud Computing:** Focusing on AWS/Azure fundamentals and secure infrastructure setup.
-* **AI & Emerging Tech:** Understanding the future of technology (2040-2050 vision), AI trends, and automation.
-* **Linux & System Control:** Enhancing skills in system administration and mastering command-line interfaces.
+Hi there! I am Ph.sec.x, a **High School Student** driven by the ambition to secure a highly competitive **Chinese (CSC), Japanese (MEXT), or Korean (GKS)** scholarship. This repository is my public log—documenting the technical rigor and practical skills I am mastering to achieve that goal. It serves as tangible evidence of my commitment to advanced study abroad.
 
-### **🔗 Connect with Ph.sec.x**
+### 🛡️ Core Focus Areas & Skill Track:
 
-* **Twitter/X:** [@PhSecX](https://x.com/PhSecX)
-* **Contact:** ph.sec.x@gmail.com
+* **Cyber Security:** Exploring ethical hacking, penetration testing, and defensive strategies. **(Goal: Practical application over theory)**
+* **Cloud Computing:** Focusing on AWS/Azure fundamentals and secure infrastructure setup. **(Goal: Secure DevOps principles)**
+* **AI & Emerging Tech (2040 Vision):** Understanding the future technology landscape, especially its integration with Cyber Defense.
+
+### 📈 Scholarship Hustle Log: Proof of Work
+
+This section is strictly updated to reflect weekly technical progress. Mere intention se kaam nahi chalega, PhSecX. **Actual kaam dikhna chahiye!**
+
+| Project/Task | Status | Relevant Skill | Progress Link / Notes |
+| :--- | :--- | :--- | :--- |
+| **01. Network Analysis Basics** | 80% Complete | Wireshark, TCP/IP | [Link to Notes/PCAP files] - Completed 5 basic scenarios. |
+| **02. Python Tool Development (Hashing)** | In Progress | Python 3, CLI | Writing a script for file integrity checks (MD5/SHA256). |
+| **03. TryHackMe/HTB CTF Log** | Starting Soon | Linux CLI, Recon | Dedicating 2 hours per week to structured learning. |
+| **04. Cloud Security Fundamentals** | Planning | AWS/Azure | Next step: Free tier account setup and basic security policy review. |
 
 ---
-*Status: Building knowledge, one commit at a time.*
+
+**~ Zain Ali (PhSecX) | Discipline is the currency of success.**
