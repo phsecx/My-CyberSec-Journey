@@ -1,4 +1,4 @@
-# My-CyberSec-Journey: The PhSecX Global Scholarship Hustle Log
+# My-CyberSec-Journey: The PhSecX Global Scholarship Hustle Log 
 
 **Status:** High School Student | Actively Tracking Progress for CSC/MEXT/GKS Undergraduate Admission 🚀
 
