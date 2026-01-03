@@ -1,0 +1,12 @@
+# PhSecX - Hashing Tool (v1.0)
+# Documenting the start of my technical journey.
+
+import hashlib
+
+def generate_hash(text):
+    # Creating a simple MD5 hash for learning
+    return hashlib.md5(text.encode()).hexdigest()
+
+data = "PhSecX_Mission_China"
+print(f"Original: {data}")
+print(f"MD5 Hash: {generate_hash(data)}")
