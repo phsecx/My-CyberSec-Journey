@@ -21,7 +21,7 @@ Hi there! I am Ph.sec.x, a **High School Student** driven by the ambition to sec
 | Project/Task | Status | Relevant Skill | Detailed Progress Status |
 | :--- | :--- | :--- | :--- |
 | **01. Network Analysis Basics** | **80% Complete** | Wireshark, TCP/IP | Core concepts understood. Need to document final 5 scenario analysis logs. |
-| **02. Python Tool Development (Hashing)** | **In Progress** | Python 3, CLI | Initial script (MD5) working. Currently optimizing for SHA256 and file input handling. |
+| **02. Python Tool Development (Hashing)** | **V1.0 Pushed** | Python 3, CLI | Initial script (MD5) working. Currently optimizing for SHA256 and file input handling. |
 | **03. TryHackMe/HTB CTF Log** | **Starting Soon** | Linux CLI, Recon | Planning structured 2-hour sessions weekly. First machine targeted this week. |
 | **04. Cloud Security Fundamentals** | **Planning Phase** | AWS/Azure | Researching free tier resources and fundamental IAM/security policy review. |
 
