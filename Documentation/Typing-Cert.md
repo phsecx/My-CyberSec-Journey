@@ -9,4 +9,4 @@ This document serves as proof of my foundational typing speed and accuracy, a cr
 - **Date:** January 03, 2026
 
 ## Visual Proof
-![Typing Certificate](./Cert1.png)
+![Typing Certificate](./Typing-Cert-1.jpg)
