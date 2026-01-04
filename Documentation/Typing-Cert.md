@@ -6,7 +6,7 @@ This document serves as proof of my foundational typing speed and accuracy, a cr
 - **Platform:** Typing.com
 - **Speed:** 22 Words Per Minute (WPM)
 - **Accuracy:** 97%
-- **Date:** January 03, 2026
+- **Date:** January 03, 2026 
 
 ## Visual Proof
 ![Typing Certificate](./Typing-Cert-1.jpg)
